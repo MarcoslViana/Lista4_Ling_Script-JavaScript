@@ -1,1 +1,3 @@
-# Lista4_Ling_Script-JavaScript
+# Exercicios da disciplina de Linguagem de Script - JavaScript
+
+Questão 1
